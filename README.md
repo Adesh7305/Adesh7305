@@ -1,16 +1,21 @@
-## Hi there 👋
+💫 About Me:
+Building my own personal projects from scratch
+Learning to contribute to open source projects and growing through collaboration
+Web development and exploring new technologies
+Open source contribution guidance, web development resources, and finding collaborators
+I’m still learning and exploring — watch this space!
+I rarely miss a sunset — it’s my way of slowing down and clearing my mind after intense coding sessions
 
-<!--
-**Adesh7305/Adesh7305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram [LinkedIn](https://linkedin.com/in/adesh mardhekar) Pinterest Reddit
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C
+C++
+CSS3
+HTML5
+JavaScript
+MySQL
+Adobe Lightroom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
