@@ -1,4 +1,5 @@
 💫 About Me:
+
 Building my own personal projects from scratch
 Learning to contribute to open source projects and growing through collaboration
 Web development and exploring new technologies
